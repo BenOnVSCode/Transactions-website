@@ -7,8 +7,9 @@ import {
   FaInstagram,
   FaYoutube,
   FaTwitter,
-  FaLinkedin
+  FaLinkedin, FaGithub
 } from 'react-icons/fa';
+import { AiOutlineMail } from 'react-icons/ai'
 import { MdFingerprint } from 'react-icons/md';
 
 function Footer() {
@@ -78,17 +79,12 @@ function Footer() {
           </div>
           <small className='website-rights'>LAVISH © 2020</small>
           <div className='social-icons'>
+            
             <Link
               className='social-icon-link'
-              to='/'
-              target='_blank'
-              aria-label='Facebook'
-            >
-              <FaFacebook />
-            </Link>
-            <Link
-              className='social-icon-link'
-              to='/'
+              to={
+                '//https://www.instagram.com/4bdeladim/'
+              }
               target='_blank'
               aria-label='Instagram'
             >
@@ -97,29 +93,21 @@ function Footer() {
             <Link
               className='social-icon-link'
               to={
-                '//www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A?view_as=subscriber'
+                '//https://github.com/4bdeladim'
               }
               target='_blank'
-              aria-label='Youtube'
+              aria-label='Github'
             >
-              <FaYoutube />
+              <FaGithub />
             </Link>
-            <Link
+            <a
               className='social-icon-link'
-              to='/'
-              target='_blank'
-              aria-label='Twitter'
-            >
-              <FaTwitter />
-            </Link>
-            <Link
-              className='social-icon-link'
-              to='/'
+              href='emailto: benabdeladim7@gmail.com '
               target='_blank'
               aria-label='LinkedIn'
             >
-              <FaLinkedin />
-            </Link>
+              <AiOutlineMail />
+            </a>
           </div>
         </div>
       </section>
