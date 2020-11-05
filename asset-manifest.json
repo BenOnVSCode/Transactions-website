@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/responsive-website-reactRouter-hooks/static/css/main.5d5a69c1.chunk.css",
-    "main.js": "/responsive-website-reactRouter-hooks/static/js/main.a1e5e675.chunk.js",
-    "main.js.map": "/responsive-website-reactRouter-hooks/static/js/main.a1e5e675.chunk.js.map",
+    "main.js": "/responsive-website-reactRouter-hooks/static/js/main.2a96da88.chunk.js",
+    "main.js.map": "/responsive-website-reactRouter-hooks/static/js/main.2a96da88.chunk.js.map",
     "runtime-main.js": "/responsive-website-reactRouter-hooks/static/js/runtime-main.f998edbe.js",
     "runtime-main.js.map": "/responsive-website-reactRouter-hooks/static/js/runtime-main.f998edbe.js.map",
-    "static/js/2.27ce92e9.chunk.js": "/responsive-website-reactRouter-hooks/static/js/2.27ce92e9.chunk.js",
-    "static/js/2.27ce92e9.chunk.js.map": "/responsive-website-reactRouter-hooks/static/js/2.27ce92e9.chunk.js.map",
+    "static/js/2.2383eed1.chunk.js": "/responsive-website-reactRouter-hooks/static/js/2.2383eed1.chunk.js",
+    "static/js/2.2383eed1.chunk.js.map": "/responsive-website-reactRouter-hooks/static/js/2.2383eed1.chunk.js.map",
     "index.html": "/responsive-website-reactRouter-hooks/index.html",
     "static/css/main.5d5a69c1.chunk.css.map": "/responsive-website-reactRouter-hooks/static/css/main.5d5a69c1.chunk.css.map",
-    "static/js/2.27ce92e9.chunk.js.LICENSE.txt": "/responsive-website-reactRouter-hooks/static/js/2.27ce92e9.chunk.js.LICENSE.txt"
+    "static/js/2.2383eed1.chunk.js.LICENSE.txt": "/responsive-website-reactRouter-hooks/static/js/2.2383eed1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f998edbe.js",
-    "static/js/2.27ce92e9.chunk.js",
+    "static/js/2.2383eed1.chunk.js",
     "static/css/main.5d5a69c1.chunk.css",
-    "static/js/main.a1e5e675.chunk.js"
+    "static/js/main.2a96da88.chunk.js"
   ]
 }
