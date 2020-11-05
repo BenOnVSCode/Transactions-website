@@ -13,7 +13,7 @@ function App() {
     <Router>
       <Navbar />
       <Switch>
-        <Route path='/responsive-website-reactRouter-hooks' exact component={Home} />
+        <Route path='/responsive-website-reactRouter-hooks' component={Home} exact />
         <Route path='/services' component={Services} />
         <Route path='/products' component={Products} />
         <Route path='/sign-up' component={SignUp} />
